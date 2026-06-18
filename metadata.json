@@ -1,0 +1,6 @@
+{
+  "name": "ProjectWala",
+  "description": "A modern full-stack web application for selling and downloading coding projects, built with React, Tailwind, and Node.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
